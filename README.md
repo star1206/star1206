@@ -39,6 +39,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:starandy@gmail.com)](mailto:starandy1206@gmail.com)
 
 ## 📊 GitHub Stats
-![Donghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongHyeon&show_icons=true&theme=radical)
