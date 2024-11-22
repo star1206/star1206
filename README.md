@@ -21,11 +21,13 @@
 <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/poster1" width="200" height="300" style="margin-right: 10px;" />   <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/poster2" width="200" height="300" /> <br>
 <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_blue" width="300" height="200" /> <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_pink" width="300" height="200" /> 
 
+- **Game Title**: Reviathan
 - **Description**: A mysterious deep-sea exploration game inspired by the Leviathan, showcasing the coexistence of chaos and order through visual trails.
 - **Highlights**:
   - Interactive gameplay elements
   - Unique art and storytelling
   - Induce visitors to participate through interactive exhibitions (Postcard Giveaway, Write a Wish/Review)
+- **Tools**: Unity
 
 ## 📫 Let's Connect!
 🤙If you’d like to work with me, feel free to reach out anytime! I’m ready to collaborate. <br>
