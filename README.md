@@ -12,9 +12,12 @@
 - 💡 Interested in AR/VR, 3D Entertainment, AI, Animation, VFX, and Game development.
 - 🌍 Exploring innovative ways to design content and media based on software.
 
+
 ## 🚀 Skills
-- **Programming Languages**: Python, C, C++, Java, HTML, Arduino
-- **Tools**: Maya, Unity, Photoshop, Illustrator, TikTok Effect House, CoSpaces
+- **Programming Languages**: ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat)
+- **Tools**: ![Autodesk Maya Badge](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodeskmaya&logoColor=fff&style=flat) ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat) ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat) ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat) ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
+
+<br><br> 
 
 ## 🌌 Projects
 ### 🌊 Ocean-Themed Game Exhibition
@@ -29,7 +32,6 @@
   - Induce visitors to participate through interactive exhibitions (Postcard Giveaway, Write a Wish/Review)
 - **Tools**: [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com)
 
-
 ### 🪄 TikTok AR Filter Effect Creator
 <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar2.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar1.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar3.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar4.gif" width="200" height="300" /> 
 - **Focus**:
@@ -37,7 +39,7 @@
   - Actively promote by uploading content using filters
 - **Tools**: TikTok Effect House
 
-
+<br><br> 
 
 ## 📫 Let's Connect!
 🤙If you’d like to work with me, feel free to reach out anytime! I’m ready to collaborate. <br>
@@ -46,6 +48,7 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@star1206cau)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starandy1206@gmail.com)
 	
+<br><br> 
 
 ## 📊 GitHub Stats
 ![KimDongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=star1206&show_icons=true&theme=tokyonight)
