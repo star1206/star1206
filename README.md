@@ -34,6 +34,7 @@
 
 ### 🪄 TikTok AR Filter Effect Creator
 <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar2.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar1.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar3.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar4.gif" width="200" height="300" /> 
+- **Creator's Name**: ARtech_kr
 - **Focus**:
   - Creating engaging and interactive AR filters
   - Actively promote by uploading content using filters
