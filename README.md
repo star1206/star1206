@@ -40,4 +40,4 @@
 	
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongHyeon&show_icons=true&theme=radical)
+![KimDongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=star1206&show_icons=true&theme=tokyonight)
