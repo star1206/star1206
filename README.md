@@ -22,7 +22,7 @@
 <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_blue" width="300" height="200" /> <img src="https://github.com/star1206/Leviathan/blob/60ffcb240354be5b4243ec17c2821f9cd5c59a18/%ED%8A%B8%EB%A0%88%EC%9D%BC%EB%9F%AC_1.gif" width="300" height="200" />
 
 
-
+- **2nd Conference Exhibition, College of Art & Technology, Chung-Ang University** 
 - **Game Title**: Reviathan
 - **Description**: A mysterious deep-sea exploration game inspired by the Leviathan, showcasing the coexistence of chaos and order through visual trails.
 - **Highlights**:
