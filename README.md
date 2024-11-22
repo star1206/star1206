@@ -20,16 +20,24 @@
 ### 🌊 Ocean-Themed Game Exhibition
 <img src="https://github.com/star1206/Leviathan/blob/a8734e5b708422ecfadba316eb200ff5ba1cee7f/poster" width="200" height="300" style="margin-right: 10px;" /> <img src="https://github.com/star1206/Leviathan/blob/68f4ca4876ca859f470d5b373ad09343e68e6bb2/exhibition.gif" width="200" height="300" /> <br>
 <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_blue" width="300" height="200" /> <img src="https://github.com/star1206/Leviathan/blob/54ae86fefb882003586a3928514d508d4ad496eb/trailer.gif" width="300" height="200" />
-
-
 - **2nd Conference Exhibition, College of Art & Technology, Chung-Ang University** 
 - **Game Title**: Reviathan
 - **Description**: A mysterious deep-sea exploration game inspired by the Leviathan, showcasing the coexistence of chaos and order through visual trails.
-- **Highlights**:
+- **Focus**:
   - Interactive gameplay elements
   - Unique art and storytelling
   - Induce visitors to participate through interactive exhibitions (Postcard Giveaway, Write a Wish/Review)
 - **Tools**: [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com)
+
+
+### 🪄 TikTok AR Filter Effect Creator
+<img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar2.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar1.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar3.gif" width="200" height="300" /> <img src="https://github.com/star1206/TikTok_EffectHouse/blob/31e018dbcfa0f6989691fe30d227ea5f5b583428/ar4.gif" width="200" height="300" /> 
+- **Focus**:
+  - Creating engaging and interactive AR filters
+  - Actively promote by uploading content using filters
+- **Tools**: TikTok Effect House
+
+
 
 ## 📫 Let's Connect!
 🤙If you’d like to work with me, feel free to reach out anytime! I’m ready to collaborate. <br>
