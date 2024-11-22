@@ -18,8 +18,8 @@
 
 ## 🌌 Projects
 ### 🌊 Ocean-Themed Game Exhibition
-<img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/poster1" width="200" height="300" style="margin-right: 10px;" />   <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/poster2" width="200" height="300" /> <br>
-<img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_blue" width="300" height="200" /> <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_pink" width="300" height="200" /> 
+![My GIF](https://github.com/star1206/Leviathan/blob/60ffcb240354be5b4243ec17c2821f9cd5c59a18/%ED%8A%B8%EB%A0%88%EC%9D%BC%EB%9F%AC_1.gif) <br>
+<img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/poster1" width="200" height="300" style="margin-right: 10px;" /> <img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_blue" width="300" height="200" /> 
 
 - **Game Title**: Reviathan
 - **Description**: A mysterious deep-sea exploration game inspired by the Leviathan, showcasing the coexistence of chaos and order through visual trails.
