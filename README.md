@@ -28,7 +28,7 @@
   - Induce visitors to participate through interactive exhibitions (Postcard Giveaway, Write a Wish/Review)
 
 ## 📫 Let's Connect!
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/@star1206cau)](https://https://www.youtube.com/@star1206cau)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@star1206cau)](https://https://www.youtube.com/@star1206cau)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:starandy@gmail.com)](mailto:starandy1206@gmail.com)
 
 ## 📊 GitHub Stats
