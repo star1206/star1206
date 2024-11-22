@@ -28,6 +28,7 @@
   - Induce visitors to participate through interactive exhibitions (Postcard Giveaway, Write a Wish/Review)
 
 ## 📫 Let's Connect!
+[![TikTok](https://img.shields.io/badge/-TikTok-blue?style=social&logo=tiktok&logoColor=white)](https://www.tiktok.com/@artech_kr)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@star1206cau)](https://www.youtube.com/@star1206cau)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:starandy@gmail.com)](mailto:starandy1206@gmail.com)
 
