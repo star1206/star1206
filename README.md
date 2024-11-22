@@ -19,7 +19,7 @@
 ## 🌌 Projects
 ### 🌊 Ocean-Themed Game Exhibition
 <img src="https://github.com/star1206/Leviathan/blob/a8734e5b708422ecfadba316eb200ff5ba1cee7f/poster" width="200" height="300" style="margin-right: 10px;" /> <img src="https://github.com/star1206/Leviathan/blob/68f4ca4876ca859f470d5b373ad09343e68e6bb2/exhibition.gif" width="200" height="300" /> <br>
-<img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_blue" width="300" height="200" /> <img src="https://github.com/star1206/Leviathan/blob/2421f3fbb4e0aab79caeecd6d656592b102c6f6c/trailer.gif" width="300" height="200" />
+<img src="https://github.com/star1206/Leviathan/blob/493be67c570c72fbd1dfa139b08dd4056262d179/postcard_blue" width="300" height="200" /> <img src="https://github.com/star1206/Leviathan/blob/54ae86fefb882003586a3928514d508d4ad496eb/trailer.gif" width="300" height="200" />
 
 
 - **2nd Conference Exhibition, College of Art & Technology, Chung-Ang University** 
