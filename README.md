@@ -9,7 +9,7 @@
 - 🚀 Dong Hyeon Kim **김동현**
 - 🏫 College of Art & Technology, Chung-Ang University 
 - 🎓 Engineering student with a passion for content creation and coding.
-- 💡 Interested in AR/VR, Metaverse, 3D Entertainment, AI, Animation, VFX, and Game development.
+- 💡 Interested in XR, Metaverse, 3D Entertainment, AI, Game development, VFX, etc.
 - 🌍 Exploring innovative ways to design content and media based on software.
 
 
