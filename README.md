@@ -50,6 +50,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starandy1206@gmail.com)
 	
 <br><br> 
-
-## 📊 GitHub Stats
-![KimDongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=star1206&show_icons=true&theme=tokyonight)
