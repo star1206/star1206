@@ -45,7 +45,7 @@
 ## 🎬 Projects of 2025
 ### 🔥 Fire Safety VR Simulator — Gyeonggi Metaverse Hackathon
 
-<img width="800" height="450" alt="Metaverse" src="https://github.com/user-attachments/assets/d2821270-6d03-4f7a-a2c6-1b027eaaf171"/> <br>
+<img width="600" alt="Metaverse" src="https://github.com/user-attachments/assets/d2821270-6d03-4f7a-a2c6-1b027eaaf171"/> <br>
 - **2025 Gyeonggi Metaverse Hackathon, Gyeonggi Content Agency**
 - **Award**: Director's Award, Gyeonggi Content Agency
 - **Description**: A Unity-based VR simulator for fire prevention and response training in manufacturing environments, designed around spaces resembling real production sites so users can train in conditions close to their own workplace.
