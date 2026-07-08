@@ -61,6 +61,26 @@
 
 <br><br> 
 
+<br><br>
+
+## 🚀 Projects of 2026
+### 🎤 K-POP VR Fan Connection Platform — BCM Academy AI × Media Startup Project
+<img width="600" alt="Plave" src="https://github.com/user-attachments/assets/4b3c0e87-46f2-4c62-91e2-b4a4f74ff6f3" /> <br>
+- **2026 BCM Academy AI × Media Startup Project**
+- **Concept**: An artist connection platform inside a K-POP VR world — bringing the close-up artist experience once limited to a few fans to audiences around the world.
+- **Description**: A VR fan experience platform where users interact with idol-based 3D characters in an immersive virtual space, built to deliver up-close artist engagement beyond the limits of physical events.
+- **Focus**:
+  - Idol image-to-3D character pipeline
+  - Real-time interactive fan experience in VR
+  - Global accessibility for close-up artist engagement
+- **Part**:
+  - 3D character image extraction from idol visuals via Google Gemini
+  - 3D character generation & rigging with Meshy AI
+  - Animation work using Mixamo
+  - UI layout design
+  - Problem-customer fit validation interviews
+  - Team lead & pitch / problem-customer fit validation presentation
+- **Tools**: [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com)
 
 ## 📫 Let's Connect!
 🤙If you’d like to work with me, feel free to reach out anytime! I’m ready to collaborate. <br>
