@@ -40,7 +40,27 @@
   - Actively promote by uploading content using filters
 - **Tools**: TikTok Effect House
 
+<br><br>
+
+## 🎬 Projects of 2025
+### 🔥 Fire Safety VR Simulator — Gyeonggi Metaverse Hackathon
+
+<img width="800" height="450" alt="Metaverse" src="https://github.com/user-attachments/assets/d2821270-6d03-4f7a-a2c6-1b027eaaf171"/> <br>
+- **2025 Gyeonggi Metaverse Hackathon, Gyeonggi Content Agency**
+- **Award**: Director's Award, Gyeonggi Content Agency
+- **Description**: A Unity-based VR simulator for fire prevention and response training in manufacturing environments, designed around spaces resembling real production sites so users can train in conditions close to their own workplace.
+- **Focus**:
+  - Realistic fire prevention & emergency response training
+  - Production-site-based spatial design for practical immersion
+  - Interactive VR simulation for hands-on learning
+- **Part**:
+  - Team Leader
+  - Game Development & 3D Modeling
+  - Demo Session Lead
+- **Tools**: [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com)
+
 <br><br> 
+
 
 ## 📫 Let's Connect!
 🤙If you’d like to work with me, feel free to reach out anytime! I’m ready to collaborate. <br>
